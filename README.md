@@ -1,4 +1,4 @@
 # Text-Recognition-Tesseract
 Text recognition using Pytesseract
 A script to Detect text from digital images
-![alt text](https://github.com/omrawal/Color-Detector/blob/main/Assets/Color%20Detection%20using%20Open%20CV.gif)
+![alt text](https://github.com/omrawal/Text-Recognition-Tesseract/blob/main/Assets/Optical%20Character%20Recognition%20OCR.gif)
